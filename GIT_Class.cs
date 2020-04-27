@@ -13,6 +13,7 @@ namespace GIT_Test
             Console.WriteLine("Just Updated code");
             Console.WriteLine("Just Updated code to Develop");
             Console.WriteLine("Just Updated code to Develop 2");
+            Console.WriteLine("This line is updated in GIT directly.");
 
             Console.ReadLine();
         }
